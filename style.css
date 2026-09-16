@@ -1,0 +1,59 @@
+.body{
+    background-color: rgb(61, 134, 41);
+
+}
+.image{ 
+    width: 100%;
+    height: auto;     
+    max-height: 400px;  
+    object-fit: cover; 
+
+   
+}
+.box{
+    background-color: lightgray;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+
+
+
+
+
+.nav a1{
+    color: black;
+    text-align:center;
+
+   
+}
+.nav a1:hover{
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 20px;
+}
+.nav a2{
+    color: black;
+    text-align: center;
+   
+}
+.nav a2:hover{
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 20px;
+}
+.nav a3{
+    color: black;
+    text-align: center;
+   
+}
+.nav a3:hover{
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 20px;
+}
+.img{
+    background: size 20px;
+    border-radius: 20px;
+}
